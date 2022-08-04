@@ -1,4 +1,5 @@
-# algorithms
+# Algorithms:
 
-##1- Greedy
-##2- Heap(Heapfy, heapsort, print)
+#1- Greedy
+
+#2- Heap(Heapfy, heapsort, print)
